@@ -23,3 +23,7 @@ Blaake (Dark): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/blaake.css
 https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/stylesheet-gray-light_v2.5.css  
 Note:  
 I recommend to use the stylesheet on top of the default Dark Stylesheet. This way you get the latest features automatically. It also works as a standalone if you prefer. The latest version of the stylesheet is also available from the Custom Stylesheets panel in your settings (user.php?action=edit_stylesheet)
+
+4. Marcel: [来源](https://passthepopcorn.me/forums.php?action=viewthread&threadid=25973)  
+Marcel (Dark): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/marcel.css
+Shosanna (Light): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/shosanna.css
