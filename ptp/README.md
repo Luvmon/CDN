@@ -28,5 +28,5 @@ I recommend to use the stylesheet on top of the default Dark Stylesheet. This wa
 Marcel (Dark): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/marcel.css  
 Shosanna (Light): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/shosanna.css
 
-5. [来源](https://passthepopcorn.me/forums.php?action=viewthread&threadid=23520)  
+5. [来源](https://passthepopcorn.me/forums.php?action=viewthread&threadid=23520)（好像没用）  
 fog: https://cdn.jsdelivr.net/gh/Luvmon/CDN/fog.css
