@@ -18,3 +18,8 @@ https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/blue-night/blue-night-plus_basic.css
 2. [来源](https://passthepopcorn.me/forums.php?action=viewthread&threadid=21721)  
 Bleeke (Light): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/bleeke.css  
 Blaake (Dark): https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/blaake.css
+
+3. Gray-Light: [来源](https://passthepopcorn.me/forums.php?action=viewthread&threadid=23354)  
+https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/stylesheet-gray-light_v2.5.css  
+Note:  
+I recommend to use the stylesheet on top of the default Dark Stylesheet. This way you get the latest features automatically. It also works as a standalone if you prefer. The latest version of the stylesheet is also available from the Custom Stylesheets panel in your settings (user.php?action=edit_stylesheet)
