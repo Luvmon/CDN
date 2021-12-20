@@ -6,3 +6,6 @@
 
 1. 把css文件存入这里面  
 2. 使用上面博客里面的方法链接  
+
+2021.12.20  
+之前的jsDelivr没用，类似的网站有https://statically.io/ 以及 http://raw.githack.com/ 但是好像没用，不知道为啥
