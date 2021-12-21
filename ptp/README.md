@@ -1,7 +1,11 @@
 ptp中的stylesheet：  
 
 1. Blue Night: [来源](https://passthepopcorn.me/forums.php?action=viewthread&threadid=36155)  
-Blue Night Plus+ (Semi-Responsive):  
+直接引用原作者链接：[原作者](https://github.com/datFunc/ptp__blue-night-theme)  
+https://cdn.jsdelivr.net/gh/datFunc/ptp__blue-night-theme@master/blue-night_semi-res.css  
+https://cdn.jsdelivr.net/gh/datFunc/ptp__blue-night-theme@master/blue-night-plus_semi-res.css  
+
+    Blue Night Plus+ (Semi-Responsive):  
 https://cdn.jsdelivr.net/gh/Luvmon/CDN/ptp/blue-night/blue-night-plus_semi-res.css  
 https://cdn.statically.io/gh/Luvmon/CDN/main/ptp/blue-night/blue-night-plus_semi-res.css  
 Blue Night (Semi-Responsive):  
